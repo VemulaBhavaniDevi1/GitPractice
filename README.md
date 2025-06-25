@@ -1,2 +1,2 @@
-new feature
+hi new feature
 
