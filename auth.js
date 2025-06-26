@@ -1,1 +1,1 @@
-console.log('Auth')
+console.log('Enhanced Auth')
