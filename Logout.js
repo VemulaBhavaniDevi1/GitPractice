@@ -1,1 +1,1 @@
-console.log('Logout')
+console.log(fixed bug)
